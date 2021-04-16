@@ -42,18 +42,18 @@ hr {
     border: dotted #b5bbbb 6px;
     border-bottom: none;
     width: 4%;
-    margin: 100px auto;
+    margin: 80px auto;
 }
 
 .webdevelopment {
-    width: 30%;
+    width: 150px;
     border-radius: 50%;
     float: left;
     margin-right: 30px;
 }
 
 .hotwings {
-    width: 30%;
+    width: 150px;
     border-radius: 50%;
     float: right;
     margin-left: 30px;
@@ -66,7 +66,7 @@ hr {
 }
 
 .middle-container {
-    margin: 100px 0;
+    margin: 50px 0;
 }
 
 .bottom-container {
@@ -76,8 +76,9 @@ hr {
 
 .skill-row {
     width: 60%;
-    margin: 100px auto;
+    margin: 50px auto;
     text-align: left;
+    font-family: 'Montserrat', sans-serif;
 }
 
 .pro {
@@ -87,11 +88,13 @@ hr {
 .intro {
     width: 40%;
     margin: auto;
+    font-family: 'Montserrat', sans-serif;
 }
 
 .contact-me {
     width: 40%;
     margin: 40px auto 60px;
+    font-family: 'Montserrat', sans-serif;
 }
 
 .headshot {
@@ -111,10 +114,8 @@ hr {
     bottom: 300px;
 }
 
-.copyright {
-    color: #EAF6F6;
-    font-size: 0.75rem;
-    padding: 20px 0;
+.skill-row h3 {
+    margin: 0;
 }
 
 .BUTTON_VHW {
@@ -155,8 +156,4 @@ hr {
     -moz-border-radius: 20px;
     border-radius: 20px;
     text-decoration: none;
-}
-
-.kk {
-    bac
 }
